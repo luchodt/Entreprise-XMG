@@ -1,4 +1,4 @@
-# Entreprise-XMG
+# Entreprise-XMG- Projet réalisé sur Tableau
 Je suis recemment recruté dans une PME du Languedoc Roussillon.
 L'entreprise XMG est dans le secteur d'activité du commerce. Elle vend des outils et matériaux de décoration.
 J'ai été sollicité pour la mise en place d'un outil visuel permettant de synthétiser quelques agrégats importants pour la prise de décision.
